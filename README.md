@@ -5,4 +5,4 @@ In the below project we implement it using google maps API.
 ## Step 1
 Save the Lat Long Stream / GeoJson file in media directory of this project
 
-[!latLong] https://drive.google.com/file/d/1QDUWSm9zOGi1GFS-WvFXWbCgXZmwXI39/view?usp=sharing
+![latLong] (https://drive.google.com/file/d/1QDUWSm9zOGi1GFS-WvFXWbCgXZmwXI39/view?usp=sharing)
