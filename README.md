@@ -14,6 +14,7 @@ Run the project using command,
 
 ## Step 3
 Open the hosted URL http://localhost:8000/ to view the marking
+
 ![Project SS1](https://drive.google.com/file/d/1kMTf6jBc3EJ4IcFaRywDBamOGoTgzqeM/view?usp=sharing"Logo Title Text 1")
 https://drive.google.com/file/d/1kMTf6jBc3EJ4IcFaRywDBamOGoTgzqeM/view?usp=sharing
 
