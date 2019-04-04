@@ -17,7 +17,7 @@ Run the project using command,
 Open the hosted URL http://localhost:8000/ to view the marking
 
 Screen Shot Showing Polyline 1 Marking
-![Project SS1](https://github.com/UjalaJha/DMBIProject/blob/master/Polyline.JPG "Logo Title Text 1")
+![Project SS1](https://github.com/UjalaJha/DMBIProject/blob/master/image1.JPG "Logo Title Text 1")
 
 https://drive.google.com/file/d/1kMTf6jBc3EJ4IcFaRywDBamOGoTgzqeM/view?usp=sharing
 
