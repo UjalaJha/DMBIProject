@@ -2,7 +2,10 @@
 When given a stream of Latitude and Longitude or any GeoJson File, we should be able to plot it over any Map API,
 In the below project we implement it using google maps API. The below project is implemented in Django so the first steps includes installation of Django.
 
-Dependencies - Django, Git
+## Requirements
+* Python
+* Django
+* Git
 
 ## Django Installation Step
 This is the recommended way to install Django.
