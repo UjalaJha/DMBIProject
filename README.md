@@ -34,7 +34,7 @@ After this the project is locally hosted.
 Open the hosted URL http://localhost:8000/ to view the marking
 
 Project View.
-![Project SS1](https://github.com/UjalaJha/DMBIProject/blob/master/image1.JPG "Logo Title Text 1")
+![Project SS1](https://github.com/UjalaJha/DMBIProject/blob/master/dm.PNG "Logo Title Text 1")
 
 https://drive.google.com/file/d/1kMTf6jBc3EJ4IcFaRywDBamOGoTgzqeM/view?usp=sharing
 
